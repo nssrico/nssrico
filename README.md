@@ -9,7 +9,7 @@ Passionate Cybersecurity & Forensics Major with hands-on academic and lab experi
 ## Objective
 
 
-Seeking an internship opportunity to apply my skills in real-world environments. I focus on strengthening system security and supporting threat analysis by leveraging both technical knowledge and problem-solving skills.
+Seeking an internship opportunity to apply my skills in real-world environments. I focus on strengthening system security and supporting threat analysis by leveraging both technical knowledge and problem-solving skills. Overall I just want to have fun with my homelab and display what I learn!
 
 
 ## Skills
